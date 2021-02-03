@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: http://localhost:8000/sitemap.xml
+Sitemap: https://kevin-detournay.github.io/deschosesparmidautres/sitemap.xml
