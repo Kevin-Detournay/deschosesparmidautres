@@ -3,11 +3,11 @@
             		this.page.identifier = '';
                 };
             
-                var disqus_loaded = false;
+                var disqus_loaded = true;
             
                 function publiiLoadDisqus() {
                     if(disqus_loaded) {
-                        return false;
+                        return true;
                     }
             
                     var top = document.getElementById('disqus_thread').offsetTop;
